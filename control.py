@@ -1,3 +1,5 @@
+# Here's a really pointless comment.
+
 def comparison_demo(num1, num2):
     """
     :param num1: number
